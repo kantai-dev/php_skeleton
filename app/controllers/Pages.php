@@ -3,7 +3,7 @@
     class Pages extends Controller {
 
         public function __construct() {
-
+            //Load models
         }
 
         public function index() {
